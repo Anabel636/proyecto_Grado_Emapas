@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703443835189",
+    "project_id": "emapas-sacaba",
+    "storage_bucket": "emapas-sacaba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703443835189:android:a5ee5662bf1698d6aa947c",
+        "android_client_info": {
+          "package_name": "com.emapas.emapassacaba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX1WYlQzUI-YaHPDqqYzUvKclV9LxWU3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
